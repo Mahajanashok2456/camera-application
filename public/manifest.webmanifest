@@ -1,0 +1,22 @@
+{
+  "name": "Vintage Camera",
+  "short_name": "Vintage",
+  "description": "Four virtual vintage cameras: instant film, 35mm, disposable and CCD digital.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b1917",
+  "theme_color": "#221f1c",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
